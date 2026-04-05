@@ -5,7 +5,7 @@
 **Paper**: LightGNN: Simple Graph Neural Network for Recommendation (WSDM ’25)  
 
 ## 1. Code Repository
-**GitHub Repository URL**: `[Insert your GitHub Link Here, e.g., https://github.com/hassan-imam/LightGNN-TinyML]`
+**GitHub Repository URL**: https://github.com/hassan-2050/TinyMl-Project
 
 *(Note: The repository contains the initial PyTorch implementation, dataset preprocessing scripts, and training loops.)*
 
